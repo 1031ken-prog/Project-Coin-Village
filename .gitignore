@@ -1,0 +1,12 @@
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Rojo build outputs
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
