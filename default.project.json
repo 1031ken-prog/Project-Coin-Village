@@ -1,0 +1,11 @@
+
+{
+  "name": "ProjectCoinVillage",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    }
+  }
+}
