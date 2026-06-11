@@ -1,3 +1,7 @@
+---
+name: Task
+about: General development task
+---
 
 ## Objective
 
