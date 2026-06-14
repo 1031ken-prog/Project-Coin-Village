@@ -6,8 +6,4 @@ Thumbs.db
 Desktop.ini
 
 # Rojo build outputs
-*.rbxl
 *.rbxl.lock
-*.rbxlx
-*.rbxm
-*.rbxmx
